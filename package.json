@@ -1,0 +1,22 @@
+{
+  "name": "gemini",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larafe1/gemini.git"
+  },
+  "author": "larafe1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larafe1/gemini/issues"
+  },
+  "homepage": "https://github.com/larafe1/gemini#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
